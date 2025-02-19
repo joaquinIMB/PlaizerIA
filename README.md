@@ -24,12 +24,6 @@ Vercel o Railway (para despliegue)
 
 🚀 Estructura del Proyecto
 
-bash
-
-Copiar
-
-Editar
-
 PlaizerIA/
 
 │── frontend/   # Aplicación Front-End (React + Vite)
@@ -41,12 +35,6 @@ PlaizerIA/
 📦 Instalación y Configuración
 
 1️⃣ Clonar el repositorio
-
-bash
-
-Copiar
-
-Editar
 
 git clone https://github.com/tuusuario/PlaizerIA.git
 
